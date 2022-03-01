@@ -1,0 +1,5 @@
+name: 'Setup Node'
+description: 'Prueba setup node'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
