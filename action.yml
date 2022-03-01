@@ -1,5 +1,8 @@
 name: 'Setup Node'
 description: 'Prueba setup node'
+branding:
+  icon: upload
+  color: blue
 runs:
   using: 'docker'
   image: 'Dockerfile'
